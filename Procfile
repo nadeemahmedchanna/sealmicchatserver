@@ -1,1 +1,1 @@
-web :java -jar SealMic-1.0.0-SNAPSHOT.jar
+java :java -jar SealMic-1.0.0-SNAPSHOT.jar
